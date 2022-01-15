@@ -1,0 +1,6 @@
+[Taskflow]
+git-tree-sha1 = "515a711adbb260e94ad9d5f43cd2648314b51586"
+
+    [[Taskflow.download]]
+    sha256 = "32eac1d8e772c6e89fd6210343766c746c2f3d97b75390e0a7cfc5ba3da3a017"
+    url = "https://github.com/JuliaBinaryWrappers/Taskflow_jll.jl/releases/download/Taskflow-v3.3.0+0/Taskflow.v3.3.0.any.tar.gz"
